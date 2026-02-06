@@ -72,3 +72,4 @@ export default defineConfig([
 ])
 ```
 # secura-pay
+# secura-pay
